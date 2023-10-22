@@ -1,0 +1,7 @@
+bricks:
+  flutter:
+    path: "bricks\\flutter"
+  new_feature:
+    path: "bricks\\new_feature"
+  widget:
+    path: "bricks\\widget"
